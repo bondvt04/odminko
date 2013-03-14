@@ -5,3 +5,5 @@ demos/
 extras/documentation
 
 /nbproject/private/
+/access_log
+/error_log
